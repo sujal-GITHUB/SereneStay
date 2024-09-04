@@ -1,3 +1,4 @@
+// types.ts
 export type Hotel = {
   name: string;
   rating: number;
@@ -9,6 +10,7 @@ export type Hotel = {
   comments?: string[];
   star: number;
   pictureLink?: string;
+  coordinates: [number, number];
 };
 
 export type HotelList = {
