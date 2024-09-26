@@ -15,7 +15,10 @@ const config = {
     defaultLocale: "en",
   },
   images: {
-    domains: ["source.unsplash.com"],
+    domains: ["images.unsplash.com"],
   },
+  // next.config.js
+
 };
 export default config;
+

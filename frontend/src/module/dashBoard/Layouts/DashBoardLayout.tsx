@@ -17,7 +17,7 @@ const DashBoardLayout: React.FC<Props> = ({ children, Filter }) => {
       {/* containner of content */}
       <div className="container my-8 mx-auto flex flex-col lg:grid lg:grid-cols-4">
         {/* left side (filters) */}
-        <div className="collapse mx-3 mb-5">
+        <div className="collapse px-0 mb-5">
           <Filters />
         </div>
         <div className="md:col-span-3">

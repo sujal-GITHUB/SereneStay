@@ -3,7 +3,7 @@ import React from "react";
 const DevViewport = () => {
   return (
     <div
-      className=" fixed left-0 bottom-0 z-50 m-8 flex h-6 w-6 items-center justify-center rounded-full bg-gray-500 p-3 font-mono text-xs 
+      className=" fixed left-0 bottom-0 z-50 m-8 flex h-6 w-6 items-center justify-center rounded-full bg-gray-500 p-3= font-mono text-xs 
      text-white sm:bg-pink-500 md:bg-orange-500 lg:bg-green-500 xl:bg-blue-500 2xl:bg-red-500"
     >
       <div className="z-50 block sm:hidden ">al</div>

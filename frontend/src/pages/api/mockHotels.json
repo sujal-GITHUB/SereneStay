@@ -15,7 +15,8 @@
         "Amazing view from the room.",
         "Great location."
       ],
-      "coordinates": [40.7128, -74.0060] 
+      "coordinates": [40.7128, -74.0060],
+      "image": "https://unsplash.com/photos/brown-concrete-building-near-green-trees-during-daytime-qhUCaOrwQuc"
     },
     {
       "name": "The Plaza Hotel",
@@ -30,7 +31,8 @@
         "Great staff and service.",
         "The room was a bit small."
       ],
-      "coordinates": [34.0522, -118.2437] 
+      "coordinates": [34.0522, -118.2437],
+      "image": "https://example.com/images/plaza-hotel.jpg"
     },
     {
       "name": "The Ritz Carlton",
@@ -52,7 +54,8 @@
         "The spa is amazing!",
         "Great location and view."
       ],
-      "coordinates": [41.8781, -87.6298] 
+      "coordinates": [41.8781, -87.6298],
+      "image": "https://example.com/images/ritz-carlton.jpg"
     },
     {
       "name": "The Waldorf Astoria",
@@ -68,7 +71,8 @@
         "Great amenities and service.",
         "The room was a bit small."
       ],
-      "coordinates": [25.7617, -80.1918] 
+      "coordinates": [25.7617, -80.1918],
+      "image": "https://example.com/images/waldorf-astoria.jpg"
     },
     {
       "name": "The Four Seasons Hotel",
@@ -84,7 +88,8 @@
         "Highly recommend!",
         "Great location and view."
       ],
-      "coordinates": [36.1699, -115.1398] 
+      "coordinates": [36.1699, -115.1398],
+      "image": "https://example.com/images/four-seasons.jpg"
     },
     {
       "name": "Mock Up Hotel",
@@ -105,7 +110,8 @@
       ],
       "price": 200,
       "sale_price": 180,
-      "coordinates": [40.7128, -74.0060] 
+      "coordinates": [40.7128, -74.0060],
+      "image": "https://example.com/images/mock-up-hotel.jpg"
     },
     {
       "name": "Mock Up Resort",
@@ -125,7 +131,8 @@
         "Shuttle service to nearby attractions"
       ],
       "price": 350,
-      "coordinates": [34.0522, -118.2437]  
+      "coordinates": [34.0522, -118.2437],
+      "image": "https://example.com/images/mock-up-resort.jpg"
     },
     {
       "name": "Mock Up Inn",
@@ -144,7 +151,8 @@
         "Bicycles available for rent"
       ],
       "price": 150,
-      "coordinates": [41.8781, -87.6298] 
+      "coordinates": [41.8781, -87.6298],
+      "image": "https://example.com/images/mock-up-inn.jpg"
     },
     {
       "name": "Mock Up Luxury Hotel",
@@ -165,7 +173,8 @@
       ],
       "price": 450,
       "sale_price": 425,
-      "coordinates": [25.7617, -80.1918]  
+      "coordinates": [25.7617, -80.1918],
+      "image": "https://example.com/images/mock-up-luxury-hotel.jpg"
     },
     {
       "name": "Mock Up Boutique Hotel",
@@ -185,7 +194,8 @@
         "24-hour front desk service"
       ],
       "price": 250,
-      "coordinates": [36.1699, -115.1398] 
+      "coordinates": [36.1699, -115.1398],
+      "image": "https://example.com/images/mock-up-boutique-hotel.jpg"
     },
     {
       "name": "Mock Up Budget Hotel",
@@ -204,7 +214,8 @@
         "Continental breakfast"
       ],
       "price": 100,
-      "coordinates": [37.7749, -122.4194] 
+      "coordinates": [37.7749, -122.4194],
+      "image": "https://example.com/images/mock-up-budget-hotel.jpg"
     },
     {
       "name": "Mock Up Family Hotel",
@@ -225,7 +236,8 @@
       ],
       "price": 250,
       "sale_price": 225,
-      "coordinates": [47.6062, -122.3321]  
+      "coordinates": [47.6062, -122.3321],
+      "image": "https://example.com/images/mock-up-family-hotel.jpg"
     },
     {
       "name": "Mock Up Business Hotel",
@@ -245,7 +257,8 @@
         "24-hour front desk service"
       ],
       "price": 300,
-      "coordinates": [42.3601, -71.0589] 
+      "coordinates": [42.3601, -71.0589],
+      "image": "https://example.com/images/mock-up-business-hotel.jpg"
     },
     {
       "name": "Mock Up Beach Hotel",
@@ -254,19 +267,19 @@
       "rating": 4.5,
       "star": 4,
       "comments": [
-        "Beautiful hotel with great beach access.",
-        "Spacious rooms and great service.",
-        "Fantastic location on the beach."
+        "Beautiful beachside hotel with great views.",
+        "Friendly staff and comfortable rooms.",
+        "Great location near the beach."
       ],
       "benefits": [
         "Free Wi-Fi",
-        "Beach chairs and umbrellas available",
-        "On-site restaurant and bar",
-        "Water sports equipment rental"
+        "On-site pool and beach access",
+        "Pet-friendly",
+        "Free breakfast"
       ],
       "price": 350,
-      "sale_price": 325,
-      "coordinates": [34.0522, -118.2437]  
+      "coordinates": [34.0522, -118.2437],
+      "image": "https://example.com/images/mock-up-beach-hotel.jpg"
     }
   ]
 }
