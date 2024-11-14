@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[8624],{7917:function(n,_,e){(window.__NEXT_P=window.__NEXT_P||[]).push(["/components/SingleHotel/mainContent",function(){return e(7457)}])}},function(n){n.O(0,[4633,6518,7457,9774,2888,179],function(){return n(n.s=7917)}),_N_E=n.O()}]);

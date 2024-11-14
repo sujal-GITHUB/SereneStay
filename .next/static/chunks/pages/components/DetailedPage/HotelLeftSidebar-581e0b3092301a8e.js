@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[1373],{8089:function(n,e,_){(window.__NEXT_P=window.__NEXT_P||[]).push(["/components/DetailedPage/HotelLeftSidebar",function(){return _(5795)}])}},function(n){n.O(0,[5795,9774,2888,179],function(){return n(n.s=8089)}),_N_E=n.O()}]);
